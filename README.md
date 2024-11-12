@@ -16,7 +16,7 @@ We specialize in a wide range of IT services, including:
 
 As part of the Starfish Myanmar family, we have been instrumental in the development and support of the following projects:
 
-- **[Starfish Myanmar](https://starfishmyanmar.com)**: Empowering communities through education, healthcare, and livelihood initiatives.
+- **[Starfish Myanmar](https://starfishmyanmar.com)**: Starfish Myanmar is a digital platform offering a range of services including a social platform, Starfish Zay (e-commerce), lucky draw campaigns, an e-wallet payment service, an agent portal, market price information, and a Brent crude chart. Designed to enhance financial inclusion and accessibility, it connects users with essential financial tools, shopping options, and real-time market insights, empowering communities across Myanmar.
 - **[Apex Gas & Oil](https://apexgasnoil.com)**: A robust solution for efficient management in the gas and oil industry.
 - **[Starfish Microfinance](https://starfishmicrofinance.com)**: Promoting financial inclusion through innovative microfinance solutions.
 - **[Titi Chat](https://titi.chat)**: A secure messaging platform with a focus on privacy and user-centric design.
