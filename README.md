@@ -18,7 +18,7 @@ As part of the Starfish Myanmar family, we have been instrumental in the develop
 
 - **[Starfish Myanmar](https://starfishmyanmar.com)**: Starfish Myanmar is a digital platform offering a range of services including a social platform, Starfish Zay (e-commerce), lucky draw campaigns, an e-wallet payment service, an agent portal, market price information, and a Brent crude chart. Designed to enhance financial inclusion and accessibility, it connects users with essential financial tools, shopping options, and real-time market insights, empowering communities across Myanmar.
 - **[Apex Gas & Oil](https://apexgasnoil.com)**: Apex Gas & Oil is a fuel trading company in Myanmar offering retail and wholesale fuel distribution. It provides a Fuel Terminal Management Portal for efficient terminal operations and a Petrol Station Portal for station management, ensuring seamless fuel supply and streamlined operations across the country..
-- **[Starfish Microfinance](https://starfishmicrofinance.com)**: Promoting financial inclusion through innovative microfinance solutions.
+- **[Starfish Microfinance](https://starfishmicrofinance.com)**: Starfish Microfinance is a digital platform that provides accessible financial services to underserved communities in Myanmar. Offering microloans, savings products, and financial literacy tools, it empowers individuals and small businesses to improve their financial stability and grow sustainably.
 - **[Titi Chat](https://titi.chat)**: A secure messaging platform with a focus on privacy and user-centric design.
 - **[DDPC Myanmar](https://ddpcmyanmar.com)**: Supporting community development through various initiatives.
 - **Dawei Resort**: Providing a luxurious experience with a focus on sustainability.
